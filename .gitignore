@@ -1,1 +1,4 @@
 all_data/
+resources/my_model.h5
+resources/data/
+resources/test_data/
